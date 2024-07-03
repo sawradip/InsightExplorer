@@ -1,0 +1,4 @@
+__pycache__/
+lida_env/
+venv/
+.env
