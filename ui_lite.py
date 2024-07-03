@@ -573,7 +573,8 @@ with gr.Blocks(
     with gr.Tab("Insights"):
         with gr.Row():
             persona_txt = gr.Text("Business Analyst at at large Corporate Organization.", interactive=True, scale=3)
-            goal_counter = gr.Slider(minimum=2, maximum=10, step=1, interactive=True, scale=1)
+            goal_counter = gr.Slider(
+                minimum=2, maximum=10, step=1, interactive=True, scale=1)
         
         propose_insights_btn = gr.Button("Propose Insights")
 
