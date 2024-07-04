@@ -23,17 +23,19 @@ Get hands-on with Insight Explorer:
 2. Clone the repository and switch to the project directory.
 3. Install dependencies with `pip install -r requirements.txt`.
 4. Securely set your API keys as environment variables.
-5. Launch Insight Explorer by running `gradio run app.py`.
+5. Launch Insight Explorer by running `python ui_lite.py`.
 
 ```bash
-gradio run ui_lite.py
+python ui_lite.py
 ```
 
 ## Demonstration 🎥
 
 Take a peek at Insight Explorer in action:
 
-![Low-Resolution Demo](demo/InsightDemo-LowRes.mp4)
+https://github.com/sawradip/InsightExplorer/assets/67541368/e900dfe5-e441-4a30-bbfd-6447b8a9cea7
+
+#### For better Quality: https://youtu.be/ZoMLcqsd6bU
 
 ## Join the Community 🤝
 
